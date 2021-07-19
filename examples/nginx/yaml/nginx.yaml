@@ -109,22 +109,22 @@ data:
 
             }
 
-            .letter: nth-of-type(1) {
+            .letter:nth-of-type(1) {
                 animation-delay: -0.083333333s;
             }
-            .letter: nth-of-type(3) {
+            .letter:nth-of-type(3) {
                 animation-delay: 0.0833333333s;
             }
-            .letter: nth-of-type(4) {
+            .letter:nth-of-type(4) {
                 animation-delay: 0.1666666667s;
             }
-            .letter: nth-of-type(5) {
+            .letter:nth-of-type(5) {
                 animation-delay: 0.25s;
             }
-            .letter: nth-of-type(6) {
+            .letter:nth-of-type(6) {
                 animation-delay: 0.3333333333s;
             }
-            .letter: nth-of-type(7) {
+            .letter:nth-of-type(7) {
                 animation-delay: 0.4166666667s;
             }
 
